@@ -1,3 +1,5 @@
 gunicorn
 pandas 
 flask
+requests
+plotly
